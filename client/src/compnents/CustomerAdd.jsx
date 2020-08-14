@@ -82,6 +82,7 @@ class CustomerAdd extends Component {
             gender: '',
             job: '',
             fileName: '',
+            open: false,
         })
     }
 
